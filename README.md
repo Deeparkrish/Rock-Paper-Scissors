@@ -26,5 +26,5 @@ In this activity, you will use functions to create a simple Rock Paper Scissors 
 
 * Scissors: wins against paper, loses to rock, and ties against itself.
 
----
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+https://deeparkrish.github.io/Rock-Paper-Scissors/
